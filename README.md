@@ -47,5 +47,5 @@
 
 
 <div align="center">
-  <p>Feel free to check out my <a href="https://charliesbarbershop.vercel.app/">Portfolio Website</a>, Reach out via <a href="mailto:duquejames657@gmail.com">email</a>, or connect on <a href="https://www.linkedin.com/in/james-michael-duque-100154350/">LinkedIn</a>!</p>
+  <p>Feel free to check out my <a href="https://www.james-michael.dev">Portfolio Website</a>, Reach out via <a href="mailto:duquejames657@gmail.com">email</a>, or connect on <a href="https://www.linkedin.com/in/james-michael-duque-100154350/">LinkedIn</a>!</p>
 </div>
