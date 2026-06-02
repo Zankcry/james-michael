@@ -58,47 +58,12 @@ I am an IT Undergraduate from Holy Angel University based in Pampanga, Philippin
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
 </p>
 
-
 ---
 
-### 📂 Featured Projects
 
-#### 📺 [Simpler Player](https://github.com/Zankcry/Simple-Player) (Chrome Web Store Extension)
-> **Cinematic Terminal Picture-in-Picture Engine**
-* Vibe-coded browser extension that extracts web videos, Reels, and Shorts into a floating window using the modern **Document Picture-in-Picture API**.
-* Features a priority-ordered capture chain, a cross-frame synchronization event bus, and a neon glassmorphic terminal theme complete with live audio visualizers and custom-rendered subtitles.
-* **Tech:** JavaScript, HTML5, CSS3, Chrome Extension API.
-
-#### 💬 [Freedom Wall](https://github.com/Zankcry/freedom-wall)
-> **Real-Time Anonymous Expression Platform**
-* An interactive message board for sharing anonymous thoughts, nested replies, likes, and base64 image uploads in real time.
-* Features a secure password-protected moderation dashboard for soft-deletes and post approval.
-* **Tech:** Next.js 16, React 19, Supabase (PostgreSQL), Tailwind CSS v4.0.
-
-#### 📖 [Yomi (読み)](https://github.com/Zankcry/Yomi)
-> **Tachiyomi-Inspired Cross-Platform Novel Reader**
-* An ad-free reader application for web novels featuring library shelf synchronization, reading progress tracking, and adjustable text layout parameters.
-* Powered by a lightweight custom PHP/MySQL backend and automated build deployments via GitHub Actions.
-* **Tech:** Flutter, Dart, PHP, MySQL, GitHub Actions.
-
-#### 💈 [Charlie's Barber & Salon](https://github.com/Zankcry/Barbershop_Website)
-> **Local Storefront & Local SEO Optimization**
-* A fast, responsive barbershop website featuring Firebase authentication, lazy video renders, and custom glassmorphism components.
-* Optimized utilizing JSON-LD schemas (LocalBusiness, Organization) which propelled the business to rank in the **first-page/top local search results** for competitive region keywords.
-* **Tech:** HTML5, TailwindCSS, JavaScript, Firebase, Google Analytics 4 (GA4).
-
----
-
-### 🎨 Peak Taste (Anime & Manga)
-When I'm not coding, I'm usually watching anime, reading manga, or OS-hopping for fun. Here is my current visual hall of fame:
-
-* ⚔️ **Masterpieces:** *Demon Slayer* (Ufotable animation makes me swoon), *Jujutsu Kaisen*, *Hunter x Hunter*, *Attack on Titan*, *Chainsaw Man*.
-* ⏳ **Action Thrillers:** *Tokyo Revengers*, *Solo Leveling* (epic power fantasy).
-* 🌸 **Rom-Coms / Wholesome Reads:** *Horimiya*, *My Dress-Up Darling*, *The 100 Girlfriends Who Really, Really, Really, Really, Really Love You*.
-
----
 
 ### 📈 My GitHub Stats
 
@@ -106,15 +71,15 @@ When I'm not coding, I'm usually watching anime, reading manga, or OS-hopping fo
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zankcry&show_icons=true&theme=dark&title_color=ec4899&text_color=ffffff&icon_color=ec4899&border_color=30363d&bg_color=0d1117&hide_rank=true" alt="Zankcry's Github Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Zankcry&show_icons=true&theme=dark&title_color=ec4899&text_color=ffffff&icon_color=ec4899&border_color=30363d&bg_color=0d1117&hide_rank=true" alt="Zankcry's Github Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zankcry&layout=compact&theme=dark&title_color=ec4899&text_color=ffffff&border_color=30363d&bg_color=0d1117" alt="Zankcry's Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zankcry&layout=compact&theme=dark&title_color=ec4899&text_color=ffffff&border_color=30363d&bg_color=0d1117" alt="Zankcry's Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zankcry&theme=dark&background=0d1117&fire=ec4899&ring=ec4899&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=94a3b8&border=30363d" alt="Zankcry's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Zankcry&theme=dark&background=0d1117&fire=ec4899&ring=ec4899&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=94a3b8&border=30363d" alt="Zankcry's Streak Stats" />
 </div>
 
 <div align="center">
