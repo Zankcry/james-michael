@@ -4,7 +4,7 @@
 
   <br />
 
-  <h1>Hello, I'm James Michael <video src="https://raw.githubusercontent.com/Zankcry/james-michael/main/public/chibi.webm" width="50" autoplay loop muted playsinline></video></h1>
+  <h1>Hello, I'm James Michael <video src="public/chibi.webm" width="50" autoplay loop muted playsinline></video></h1>
   <p>💡 <em>IT Undergraduate from Holy Angel University | Based in Pampanga, Philippines 🇵🇭</em></p>
 
   <p>
