@@ -6,7 +6,7 @@
   <br />
 
   <p align="center">
-    Hello, I'm James an IT undergraduate from Holy Angel University based in Pampanga, Philippines 🇵🇭. I'm primarily a Frontend Web Developer, but I'm fully capable of working across the Full Stack. I am currently looking for internships to further apply my knowledge in real-world environments.
+    Hello, I'm an IT undergraduate from Holy Angel University based in Pampanga, Philippines 🇵🇭. I'm primarily a Frontend Web Developer, but I'm fully capable of working across the Full Stack. I am currently looking for internships to further apply my knowledge in real-world environments.
   </p>
 
   <p align="center">
