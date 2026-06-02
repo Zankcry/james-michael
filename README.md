@@ -12,13 +12,12 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/james-michael-duque-100154350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:duquejames657@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://open.spotify.com/user/zankcry"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" /></a>
   </p>
 </div>
 
 
 
-### 🛠️ Technology Stack
+### Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -47,6 +46,5 @@
 
 
 <div align="center">
-  <p>🎵 <em>"Accruing lines of code under a cozy low-fi vibe."</em></p>
-  <p>⚡ Feel free to check out my <a href="https://charliesbarbershop.vercel.app/">portfolio website</a>, reach out via <a href="mailto:duquejames657@gmail.com">email</a>, or connect on <a href="https://www.linkedin.com/in/james-michael-duque-100154350/">LinkedIn</a>!</p>
+  <p>Feel free to check out my <a href="https://charliesbarbershop.vercel.app/">Portfolio Website</a>, Reach out via <a href="mailto:duquejames657@gmail.com">email</a>, or connect on <a href="https://www.linkedin.com/in/james-michael-duque-100154350/">LinkedIn</a>!</p>
 </div>
