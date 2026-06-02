@@ -6,13 +6,7 @@
   <br />
 
   <p align="center">
-    <img src="https://badges.pufler.dev/visits/Zankcry/james-michael?color=green&style=flat-square" />
-    <img src="https://badges.pufler.dev/repos/Zankcry?color=green&style=flat-square" />
-    <img src="https://badges.pufler.dev/commits/monthly/Zankcry?color=green&style=flat-square" />
-  </p>
-
-  <p align="center">
-    I'm primarily a <strong>Frontend Web Developer</strong> 🎨, but fully capable of building cross-platform apps and managing the <strong>Full Stack</strong> 💻. I build responsive interfaces, design micro-interactions, optimize local SEO, and occasionally build browser extensions nobody asked for 🛠️.
+    Hello, I'm James an IT undergraduate from Holy Angel University based in Pampanga, Philippines 🇵🇭. I'm primarily a Frontend Web Developer, but I'm fully capable of working across the Full Stack. I am currently looking for internships to further apply my knowledge in real-world environments.
   </p>
 
   <p align="center">
@@ -22,19 +16,7 @@
   </p>
 </div>
 
-<hr />
 
-### 💫 About Me <video src="public/chibi.webm" width="45" autoplay loop muted playsinline></video>
-
-I am an IT Undergraduate from Holy Angel University based in Pampanga, Philippines 🇵🇭.
-
-🚀 **What I'm doing right now:**
-* 🎯 Actively looking for **internship opportunities** to apply my knowledge in real-world environments.
-* 🎨 Learning **Spine 2D** to bring static web components and characters to life through interactive skeletal animations.
-* 🛠️ Building clean, rapid user interfaces with **Shadcn UI** and Tailwind CSS.
-* 🇯🇵 Self-studying **Japanese** in my free time (current state: engrossed in *manga* vocabulary and grammar).
-
----
 
 ### 🛠️ Technology Stack
 
@@ -63,24 +45,6 @@ I am an IT Undergraduate from Holy Angel University based in Pampanga, Philippin
 
 ---
 
-
-
-### 📈 My GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=Zankcry&show_icons=true&theme=dark&title_color=ec4899&text_color=ffffff&icon_color=ec4899&border_color=30363d&bg_color=0d1117&hide_rank=true" alt="Zankcry's Github Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zankcry&layout=compact&theme=dark&title_color=ec4899&text_color=ffffff&border_color=30363d&bg_color=0d1117" alt="Zankcry's Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Zankcry&theme=dark&background=0d1117&fire=ec4899&ring=ec4899&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=94a3b8&border=30363d" alt="Zankcry's Streak Stats" />
-</div>
 
 <div align="center">
   <p>🎵 <em>"Accruing lines of code under a cozy low-fi vibe."</em></p>
